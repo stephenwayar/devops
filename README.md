@@ -61,9 +61,9 @@
   - "The DevOps Handbook" by Gene Kim, Patrick Debois, John Willis, and Jez Humble.
   - "Kubernetes Up & Running" by Kelsey Hightower, Brendan Burns, and Joe Beda.
 - **Online Courses**:
-  - [Docker for DevOps](https://www.udemy.com/course/docker-mastery/)
-  - [Kubernetes for Developers](https://www.udemy.com/course/kubernetes-for-developers/)
-  - [AWS Certified DevOps Engineer](https://www.udemy.com/course/aws-certified-devops-engineer/)
+  - [DevOps with Docker](https://devopswithdocker.com/)
+  - [DevOps with Kubernetes](https://devopswithkubernetes.com/)
+  - [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?couponCode=KEEPLEARNING)
 
 ## Conclusion
 Transitioning into DevOps from a strong development background will enable you to build, deploy, and manage applications more efficiently. By following this learning journey, you will gain the necessary skills to excel as a DevOps engineer and contribute to creating robust and scalable infrastructure solutions.
